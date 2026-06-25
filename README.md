@@ -11,5 +11,5 @@ Interactive Sales Dashboard built using Microsoft Power BI on the Contoso retail
 - Net Profit Trend Analysis
 - Year over Year comparison
 - Regional breakdown
-- Interactive Slicers and Fi;ters
+- Interactive Slicers and Filters
   
